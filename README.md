@@ -107,3 +107,17 @@ get_map文件克隆自https://github.com/Cartucho/mAP
 https://github.com/qqwweee/keras-yolo3/  
 https://github.com/Cartucho/mAP  
 https://github.com/Ma-Dan/keras-yolo4  
+
+## The above is original readme.md
+
+## My work
+I tried to train the YOLOv4 to detect the helmet and it's color. In order to know whether it learned well, I visualized the output of the YOLO-Head.
+origin.jpg|detection.jpg
+:---:|:---:
+<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/img/00148.jpg" width="500" alt="origin.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/yolov4_img.jpg" width="500" alt="detection.jpg">
+
+head0|head1|head2
+:---:|:---:|:---:
+<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head0layer0score.jpg" width="500" alt="head0layer0score.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head0layer1class.jpg" width="500" alt="head0layer1class.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head0layer2class_score.jpg" width="500" alt="head0layer2class_score.jpg">
+<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head1layer0score.jpg" width="500" alt="head1layer0score.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head1layer1class.jpg" width="500" alt="head1layer1class.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head1layer2class_score.jpg" width="500" alt="head1layer2class_score.jpg">
+<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head2layer0score.jpg" width="500" alt="head2layer0score.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head2layer1class.jpg" width="500" alt="head2layer1class.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head2layer2class_score.jpg" width="500" alt="head2layer2class_score.jpg">
