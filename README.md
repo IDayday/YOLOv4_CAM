@@ -118,13 +118,8 @@ origin.jpg|detection.jpg
 
 head0|head1|head2
 :---:|:---:|:---:
-<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head0layer0score.jpg" width="500" alt="head0layer0score.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head1layer0score.jpg" width="500" alt="head1layer0score.jpg">|
-<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head2layer0score.jpg" width="500" alt="head2layer0score.jpg">
-
+<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head0layer0score.jpg" width="500" alt="head0layer0score.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head1layer0score.jpg" width="500" alt="head1layer0score.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head2layer0score.jpg" width="500" alt="head2layer0score.jpg">
 <img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head0layer1class.jpg" width="500" alt="head0layer1class.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head1layer1class.jpg" width="500" alt="head1layer1class.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head2layer1class.jpg" width="500" alt="head2layer1class.jpg">
-
 <img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head0layer2class_score.jpg" width="500" alt="head0layer2class_score.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head1layer2class_score.jpg" width="500" alt="head1layer2class_score.jpg">|<img src="https://github.com/IDayday/YOLOv4_CAM/blob/main/cam_results/head2layer2class_score.jpg" width="500" alt="head2layer2class_score.jpg">
-
-
 
 The above are shown the visualization of the "yellow", we can easily see the hot area focus on the yellow helmets. So I think this can help us to train the model to a certain extent.
